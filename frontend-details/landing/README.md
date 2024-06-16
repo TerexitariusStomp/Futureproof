@@ -14,4 +14,4 @@ On this page there will be the ability to navigate to home, explore NFTs, search
 
 ## Footer <a href="#footer" id="footer"></a>
 
-On the footer there will be social links to associated organizations of our marketplace such as Charged Particles and Giveth as well as social links to our own socials. Navigation links to home and explore will be present. Links to further details of the marketplace will also be present (such as blog, whitepaper and terms of service. Credits will also be noted in the footer, such as built on Seaport and Opensea.&#x20;
+On the footer there will be social links. Navigation links to home and explore will be present. Links to further details of the marketplace will also be present (such as blog, whitepaper and terms of service. Credits will also be noted in the footer, such as built using such technology).&#x20;

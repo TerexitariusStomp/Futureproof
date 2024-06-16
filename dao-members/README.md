@@ -6,7 +6,7 @@ We value the art that artists put on our marketplace. We curate the artists that
 
 ## General Members
 
-Once a visitor has a FeNXT NFT that has some FeNXT token charged in it, they are able to vote on governance proposals.&#x20;
+Once a visitor has a NFT that has some token charged in it, they are able to vote on governance proposals.&#x20;
 
 ## Human Verified&#x20;
 

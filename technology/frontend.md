@@ -20,4 +20,4 @@ Various technologies will be utilized to create the frontend of our dApp. Listed
 
 ## NFT
 
-[Alchemy NFT API, ](https://www.alchemy.com/nft-api)[Royalty Lookup API, ](https://royaltyregistry.xyz/lookup)[Charged Particle SDK](https://docs.charged.fi/sdk/charged-particles-sdk-overview)
+[Alchemy NFT API, ](https://www.alchemy.com/nft-api)[Royalty Lookup API, ](https://royaltyregistry.xyz/lookup)[Charged Particle SDK](https://docs.charged.fi/sdk/charged-particles-sdk-overview) or ERC 6551 Implementation

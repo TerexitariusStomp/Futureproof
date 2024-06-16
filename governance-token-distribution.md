@@ -1,4 +1,4 @@
-# Token Distribution
+# Governance Token Distribution
 
 The best token projects focus on tokens as a means to build network effects and help govern the network. We are still collectively deciding how to allocate tokens but the initial distribution is as follows. As we are aiming to raise funds through grant funding, it isn't until after the MVP is created that tokens usage is further defined. Preliminary thoughts are outlined below. &#x20;
 
@@ -6,13 +6,7 @@ The best token projects focus on tokens as a means to build network effects and 
 
 Coding will be rewarded.
 
-Each time a code is used, 0.00001% of the token supply is distributed.  &#x20;
-
-## Verified Organizations
-
-Once an organization has been donated to through the sale of an NFT that organization gets some tokens.&#x20;
-
-The percent is 0.1% for the first time and each time after 0.05%.  &#x20;
+Each time a code is used, 0.00001% of the token supply is distributed.   &#x20;
 
 ## Artist&#x20;
 
